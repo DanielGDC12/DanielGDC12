@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Daniel :D ,
-- 👀 I’m interested in becoming a front-end developer , so if you have any tips i'm aways open to learn new things .
-- 🌱 I’m currently learning ReactJS and javascript .
+- 👋 Hi, I’m Daniel  ,
+- 👀 I’m interested in becoming a full-stack developer , so if you have any tips i'm aways open to learn new things .
+- 🌱 I’m currently learning ReactJ, javascript and C# .
 
 
 <!---
